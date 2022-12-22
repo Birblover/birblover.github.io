@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Veritas University</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Veritas University</h1>
+      <nav>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="academics.html">Academics</a></li>
+          <li><a href="admissions.html">Admissions</a></li>
+          <li><a href="campus-life.html">Campus Life</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Welcome to Veritas University</h2>
+      <p>Veritas University is a prestigious institution of higher learning located in the heart of the city. We offer a wide range of undergraduate and graduate programs in a variety of fields, including business, engineering, and the arts.</p>
+      <p>Our faculty are renowned experts in their fields, and our small class sizes ensure that students receive personalized attention and support. At Veritas, we are committed to providing a high-quality education that prepares students for success in their careers and in life.</p>
+    </main>
+  </body>
+</html>
