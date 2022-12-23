@@ -302,12 +302,14 @@ footer {
 
 /* Header */
 header {
-  align-items: center;
-  background-color: #fff;
+  background-color: #6200ee;
+  color: #fff;
   display: flex;
-  height: 60px;
   justify-content: space-between;
   padding: 1em;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 
 header h1 {
