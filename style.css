@@ -300,3 +300,31 @@ footer {
   background-color: #3700b3;
 }
 
+/* Header */
+header {
+  align-items: center;
+  background-color: #fff;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 1em;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+}
+
+header nav a {
+  margin-left: 1em;
+  text-decoration: none;
+}
+
+header nav a.active {
+  font-weight: bold;
+}
+
+
